@@ -1,0 +1,25 @@
+-s for 11.txt
+-n for 1.txt 2.txt
+-n for 1.txt
+-n -e ^\} 1.txt
+-c -e /\ 1.txt
+-ce ^int 1.txt 2.txt
+-e ^int 1.txt
+-nivh = 1.txt 2.txt
+-e
+-ie INT 5.txt
+-echar 1.txt 2.txt
+-ne = -e out 5.txt
+-iv int 5.txt
+-in int 5.txt
+-c -l aboba 1.txt 5.txt
+-v 1.txt -e ank
+-noe ) 5.txt
+-l for 1.txt 2.txt
+-o -e int 4.txt
+-e = -e out 5.txt
+-noe ing -e as -e the -e not -e is 6.txt
+-e ing -e as -e the -e not -e is 6.txt
+-c -e . 1.txt -e '.'
+-l for 11.txt 2.txt
+-f 3.txt 5.txt

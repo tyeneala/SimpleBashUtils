@@ -1,0 +1,11 @@
+-s 21.txt
+-b -e -n -s -t -v 21.txt
+-t 23.txt
+-n 22.txt
+11.txt
+-n -b 21.txt
+-s -n -e 24.txt
+21.txt -n
+-n 21.txt
+-n 21.txt 22.txt
+-v 128.txt
